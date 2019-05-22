@@ -1,18 +1,19 @@
 {
   "auth": {
-    "agree": "I agree to",
-    "alreadyJoined": "Already joined?",
-    "createAccount": "Create account",
-    "createNewAccount": "Create account",
-    "email": "Email",
-    "login": "Login",
-    "password": "Password",
-    "signUp": "Sign Up",
-    "termsOfUse": "Terms of Use.",
-    "welcome": "Welcome!"
+    "agree": "Я соглашаюсь с ",
+    "alreadyJoined": "Уже зарегистрировались?",
+    "createAccount": "Создать аккаунт",
+    "createNewAccount": "Создать аккаунт",
+    "email": "Электронная почта",
+    "login": "Войти",
+    "password": "Пароль",
+    "signUp": "Войти",
+    "termsOfUse": "правилами сайта",
+    "welcome": "Добро пожаловать!"
   },
+
   "breadcrumbs": {
-    "home": "Home"
+    "home": "Главная"
   },
   "buttons": {
     "advanced": "Icons, Groups, Dropdowns",
@@ -175,64 +176,64 @@
     "spanish": "Spanish"
   },
   "menu": {
-    "auth": "Auth",
-    "buttons": "Buttons",
-    "charts": "Charts",
-    "colorPickers": "Color Pickers",
-    "filters": "Filters",
-    "collapse": "Collapse",
-    "timelines": "Timelines",
-    "dashboard": "Dashboard",
-    "extra": "Extra",
-    "formElements": "Form Elements",
-    "forms": "Forms",
-    "formWizards": "Form Wizards",
-    "mediumEditor": "Medium Editor",
-    "grid": "Grid",
-    "icons": "Icons",
-    "cards": "Cards",
-    "spinners": "Spinners",
-    "login": "Login",
-    "maps": "Maps",
-    "pages": "Pages",
-    "modals": "Modals",
-    "notifications": "Notifications",
-    "progressBars": "Progress Bars",
-    "signUp": "Sign up",
-    "statistics": "Statistics",
-    "tables": "Tables",
-    "tags": "Tags",
-    "typography": "Typography",
-    "uiElements": "UI Elements",
-    "treeView": "Tree view",
-    "dateTimePickers": "Date time pickers",
-    "fileUpload": "File Upload",
-    "dropdowns": "Dropdowns"
+    "auth": "Войти",
+    "buttons": "Кнопки",
+    "charts": "Графики",
+    "colorPickers": "Палитры цветов",
+    "filters": "Фильтры",
+    "collapse": "Коллапс",
+    "timelines": "Временная линия",
+    "dashboard": "Главная страница",
+    "extra": "Дополнительно",
+    "formElements": "Элементы форм",
+    "forms": "Форма",
+    "formWizards": "Волшебные формы",
+    "mediumEditor": "Среднее редактирование",
+    "grid": "Грид",
+    "icons": "Иконки",
+    "cards": "Карды",
+    "spinners": "Спиннеры",
+    "login": "Войти в аккаунт",
+    "maps": "Карты",
+    "pages": "Страницы",
+    "modals": "Модали",
+    "notifications": "Уведомления",
+    "progressBars": "Индикаторы выполнения",
+    "signUp": "Создать аккаунт",
+    "statistics": "Статистика",
+    "tables": "Грузы",
+    "tags": "Теги",
+    "typography": "Типография",
+    "uiElements": "UI элементы",
+    "treeView": "Дерево просмотров",
+    "dateTimePickers": "Выбор даты времени",
+    "fileUpload": "Файл загружен",
+    "dropdowns": "Выпадающие"
   },
   "messages": {
-    "all": "See all messages",
-    "new": "New messages from {name}"
+    "all": "Посмотреть все сообщения",
+    "new": "Новое сообщение от {name}"
   },
   "modal": {
-    "cancel": "CANCEL",
-    "close": "CLOSE",
-    "confirm": "CONFIRM",
-    "large": "Large",
-    "largeTitle": "Large Modal",
-    "medium": "Medium",
-    "mediumTitle": "Medium Modal",
-    "small": "Small",
-    "smallTitle": "Small Modal",
-    "static": "Static",
-    "staticMessage": "This is a static modal, backdrop click will not close it.",
-    "staticTitle": "Static Modal",
-    "title": "Modals"
+    "cancel": "Отмена",
+    "close": "Закрыть",
+    "confirm": "Подтвердить",
+    "large": "Большой",
+    "largeTitle": "Большое модальное окно",
+    "medium": "Среднее",
+    "mediumTitle": "Средее модальное окно",
+    "small": "Маленькое",
+    "smallTitle": "Маленькое модальное окно",
+    "static": "Статическое",
+    "staticMessage": "Это статическое модальное окно, щелчок по фону не закроет его",
+    "staticTitle": "Статическое модальное окно",
+    "title": "Модальные окна"
   },
   "dropdown": {
-    "default": "Default",
-    "withArrow": "With arrow",
-    "note": "Note",
-    "noteText": "Dropdown will open in the specified direction if there is enough space on the screen, otherwise the direction will automatically change"
+    "default": "По умолчанию",
+    "withArrow": "Со стрелочками",
+    "note": "Заметки",
+    "noteText": "Раскрывающийся список откроется в указанном направлении, если на экране будет достаточно места, иначе направление будет автоматически меняться"
   },
   "fileUpload": {
     "advancedMediaGallery": "Advanced, Media Gallery",
@@ -259,7 +260,7 @@
     "colored": "Colored"
   },
   "navbar": {
-    "messageUs": "Web development help needed? Contact us at"
+    "messageUs": "Нужна помощь в перевозке? Отправьте ваше сообщение нам на почту"
   },
   "notifications": {
     "all": "See all notifications",
@@ -292,7 +293,7 @@
     "title": "Progress Bars"
   },
   "tables": {
-    "basic": "Basic Table",
+    "basic": "Грузы",
     "styled": "Colors, Icons, Labels",
     "advanced": "Search & Pagination",
     "headings": {

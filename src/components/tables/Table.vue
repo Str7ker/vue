@@ -2,6 +2,8 @@
   <div>
     <div class="va-row">
       <div class="flex xs12 md12">
+        <v-btn color="success">Success</v-btn>
+        <v-btn color="error">Error</v-btn>
         <vuestic-widget :headerText="$t('tables.basic')">
           <div class="table-responsive">
             <table class="table table-striped first-td-padding">
